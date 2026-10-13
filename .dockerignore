@@ -1,0 +1,7 @@
+node_modules
+.git
+.github
+web/dist
+web/node_modules
+server/node_modules
+npm-debug.log*
